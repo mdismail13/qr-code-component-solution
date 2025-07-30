@@ -26,7 +26,7 @@ It uses semantic HTML and CSS Flexbox and Grid for layout and styling.
 ### Links
 
 - Solution URL: [https://github.com/mdismail13/qr-code](https://github.com/mdismail13/qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mdismail13.github.io/qr-code-component-solution/](https://mdismail13.github.io/qr-code-component-solution/)
 
 ## My process
 
