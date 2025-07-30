@@ -40,7 +40,9 @@ body{
 }
 img{
     border-radius: var(--img-radius);
-    margin: 1rem 1rem 1.5rem;
+    margin-inline-start: 1rem;
+    margin-inline-end: 1rem;
+    margin-block-end: 1.5rem;
     max-width: 100%;
 }
 .heading{
