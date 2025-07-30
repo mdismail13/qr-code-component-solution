@@ -55,13 +55,13 @@ Example of HTML used:
 </main>
 ```
 ```css
-.card {
-  background-color: white;
-  max-width: 320px;
-  text-align: center;
-  border-radius: 20px;
-  display: flex;
-  flex-direction: column;
+.card{
+    background-color: var(--white);
+    max-width: 20rem;
+    text-align: center;
+    border-radius: var(--card-radius);
+    display: flex;
+    flex-direction: column;
 }
 ```
 
