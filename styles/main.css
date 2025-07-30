@@ -22,13 +22,15 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
     background-color: var(--bg-color);
+}
+
+.main{
     display: grid;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 97vh;
 }
 .card{
     background-color: var(--white);
@@ -61,4 +63,17 @@ img{
     margin-inline-start: 2rem;
     margin-inline-end: 2rem;
     margin-block-end: 2.5rem;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer-details{
+    color: var(--secondary-color);
+    font-size: 0.9375rem;
+}
+
+.footer-links{
+    text-decoration: none;
 }
